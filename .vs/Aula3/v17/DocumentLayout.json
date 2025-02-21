@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno.Lab2\\source\\repos\\Aula3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E8E432-8664-452B-B2FB-27053B5453BF}|Aula3\\Aula3.csproj|c:\\users\\aluno.lab2\\source\\repos\\aula3\\aula3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E8E432-8664-452B-B2FB-27053B5453BF}|Aula3\\Aula3.csproj|solutionrelative:aula3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno.Lab2\\source\\repos\\Aula3\\Aula3\\Program.cs",
+              "RelativeDocumentMoniker": "Aula3\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno.Lab2\\source\\repos\\Aula3\\Aula3\\Program.cs",
+              "RelativeToolTip": "Aula3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:08:00.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
