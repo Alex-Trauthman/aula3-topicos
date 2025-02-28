@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aluno.Lab2\\source\\repos\\Aula3\\",
+  "WorkspaceRootPath": "C:\\Users\\aleks\\source\\repos\\aula3-topicos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0E8E432-8664-452B-B2FB-27053B5453BF}|Aula3\\Aula3.csproj|c:\\users\\aluno.lab2\\source\\repos\\aula3\\aula3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0E8E432-8664-452B-B2FB-27053B5453BF}|Aula3\\Aula3.csproj|solutionrelative:aula3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0E8E432-8664-452B-B2FB-27053B5453BF}|Aula3\\Aula3.csproj|c:\\users\\aleks\\source\\repos\\aula3-topicos\\aula3\\comercio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E8E432-8664-452B-B2FB-27053B5453BF}|Aula3\\Aula3.csproj|solutionrelative:aula3\\comercio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E8E432-8664-452B-B2FB-27053B5453BF}|Aula3\\Aula3.csproj|c:\\users\\aleks\\source\\repos\\aula3-topicos\\aula3\\prefeitura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E8E432-8664-452B-B2FB-27053B5453BF}|Aula3\\Aula3.csproj|solutionrelative:aula3\\prefeitura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E8E432-8664-452B-B2FB-27053B5453BF}|Aula3\\Aula3.csproj|c:\\users\\aleks\\source\\repos\\aula3-topicos\\aula3\\industria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E8E432-8664-452B-B2FB-27053B5453BF}|Aula3\\Aula3.csproj|solutionrelative:aula3\\industria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E8E432-8664-452B-B2FB-27053B5453BF}|Aula3\\Aula3.csproj|c:\\users\\aleks\\source\\repos\\aula3-topicos\\aula3\\entidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E8E432-8664-452B-B2FB-27053B5453BF}|Aula3\\Aula3.csproj|solutionrelative:aula3\\entidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno.Lab2\\source\\repos\\Aula3\\Aula3\\Program.cs",
-              "RelativeDocumentMoniker": "Aula3\\Program.cs",
-              "ToolTip": "C:\\Users\\Aluno.Lab2\\source\\repos\\Aula3\\Aula3\\Program.cs*",
-              "RelativeToolTip": "Aula3\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Entidade.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\aula3-topicos\\Aula3\\Entidade.cs",
+              "RelativeDocumentMoniker": "Aula3\\Entidade.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\aula3-topicos\\Aula3\\Entidade.cs",
+              "RelativeToolTip": "Aula3\\Entidade.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T12:08:00.177Z",
+              "WhenOpened": "2025-02-28T02:14:15.805Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Industria.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\aula3-topicos\\Aula3\\Industria.cs",
+              "RelativeDocumentMoniker": "Aula3\\Industria.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\aula3-topicos\\Aula3\\Industria.cs",
+              "RelativeToolTip": "Aula3\\Industria.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:09:54.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prefeitura.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\aula3-topicos\\Aula3\\Prefeitura.cs",
+              "RelativeDocumentMoniker": "Aula3\\Prefeitura.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\aula3-topicos\\Aula3\\Prefeitura.cs",
+              "RelativeToolTip": "Aula3\\Prefeitura.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:09:57.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Comercio.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\aula3-topicos\\Aula3\\Comercio.cs",
+              "RelativeDocumentMoniker": "Aula3\\Comercio.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\aula3-topicos\\Aula3\\Comercio.cs",
+              "RelativeToolTip": "Aula3\\Comercio.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAowFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:09:51.18Z",
+              "EditorCaption": ""
             }
           ]
         }

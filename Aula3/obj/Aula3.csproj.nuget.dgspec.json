@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno.Lab2\\source\\repos\\Aula3\\Aula3\\Aula3.csproj": {}
+    "C:\\Users\\aleks\\Source\\Repos\\aula3-topicos\\Aula3\\Aula3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno.Lab2\\source\\repos\\Aula3\\Aula3\\Aula3.csproj": {
+    "C:\\Users\\aleks\\Source\\Repos\\aula3-topicos\\Aula3\\Aula3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno.Lab2\\source\\repos\\Aula3\\Aula3\\Aula3.csproj",
+        "projectUniqueName": "C:\\Users\\aleks\\Source\\Repos\\aula3-topicos\\Aula3\\Aula3.csproj",
         "projectName": "Aula3",
-        "projectPath": "C:\\Users\\Aluno.Lab2\\source\\repos\\Aula3\\Aula3\\Aula3.csproj",
-        "packagesPath": "C:\\Users\\Aluno.Lab2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno.Lab2\\source\\repos\\Aula3\\Aula3\\obj\\",
+        "projectPath": "C:\\Users\\aleks\\Source\\Repos\\aula3-topicos\\Aula3\\Aula3.csproj",
+        "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aleks\\Source\\Repos\\aula3-topicos\\Aula3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Aluno.Lab2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -42,9 +42,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
